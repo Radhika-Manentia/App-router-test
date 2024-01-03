@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/VolumeViewer/VolumeViewer.js", "src/utils/demo/helpers/addButtonToToolbar.js", "src/utils/test/testUtilsMouseEvents.js", "src/utils/demo/helpers/getPTImageIdInstanceMetadata.js", "src/utils/demo/helpers/getLocalUrl.js", "src/utils/demo/helpers/addToggleButtonToToolbar.js", "src/utils/demo/helpers/addSliderToToolbar.js", "src/utils/demo/helpers/addDropdownToToolbar.js", "src/utils/demo/helpers/addCheckboxToToolbar.js"],
   "exclude": ["node_modules"]
 }
